@@ -8,3 +8,5 @@ WATSON ASSISTANT CHATBOT PREVIEW LINK:   https://web-chat.global.assistant.watso
 
 PROJECT DEMO VIDEO:
 https://github.com/Devika1700/Shopping/commit/61563206b3a468815ed8173a3498ca4864101253#commitcomment-45661867
+
+PROJECT DOCUMENTATION: https://workdrive.zohoexternal.com/writer/open/mmf2d8b8bc33de40e49778717b4770e8bd217?authId=%7B%22linkId%22%3A%225k2wAp9PfOV-LYmlU%22%7D
